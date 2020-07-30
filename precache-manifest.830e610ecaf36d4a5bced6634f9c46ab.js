@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee939ac6baeed8e36af544963c76f5c0",
+    "revision": "c50a673bf835c2a85357df18157ad369",
     "url": "/deploy-crm-kabs-demo/index.html"
   },
   {
-    "revision": "86089856c7b9a1638e86",
-    "url": "/deploy-crm-kabs-demo/static/js/2.7fe899a5.chunk.js"
+    "revision": "5e80406ef40a69b5cab8",
+    "url": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/deploy-crm-kabs-demo/static/js/2.7fe899a5.chunk.js.LICENSE.txt"
+    "url": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48a46899080c49ab88f4",
-    "url": "/deploy-crm-kabs-demo/static/js/main.cf5221f1.chunk.js"
+    "revision": "a68525d57782e01562d9",
+    "url": "/deploy-crm-kabs-demo/static/js/main.c5692655.chunk.js"
   },
   {
     "revision": "a3616cecf5a495e14d01",
