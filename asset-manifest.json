@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/deploy-crm-kabs-demo/static/js/main.c5692655.chunk.js",
-    "main.js.map": "/deploy-crm-kabs-demo/static/js/main.c5692655.chunk.js.map",
+    "main.js": "/deploy-crm-kabs-demo/static/js/main.df95aa78.chunk.js",
+    "main.js.map": "/deploy-crm-kabs-demo/static/js/main.df95aa78.chunk.js.map",
     "runtime-main.js": "/deploy-crm-kabs-demo/static/js/runtime-main.17b733c8.js",
     "runtime-main.js.map": "/deploy-crm-kabs-demo/static/js/runtime-main.17b733c8.js.map",
     "static/js/2.2bb5eb00.chunk.js": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js",
     "static/js/2.2bb5eb00.chunk.js.map": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js.map",
     "index.html": "/deploy-crm-kabs-demo/index.html",
-    "precache-manifest.830e610ecaf36d4a5bced6634f9c46ab.js": "/deploy-crm-kabs-demo/precache-manifest.830e610ecaf36d4a5bced6634f9c46ab.js",
+    "precache-manifest.1c8976b53ccbf25bce4040734ca6e66f.js": "/deploy-crm-kabs-demo/precache-manifest.1c8976b53ccbf25bce4040734ca6e66f.js",
     "service-worker.js": "/deploy-crm-kabs-demo/service-worker.js",
     "static/js/2.2bb5eb00.chunk.js.LICENSE.txt": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js.LICENSE.txt",
     "static/media/yearbook.svg": "/deploy-crm-kabs-demo/static/media/yearbook.ad8a12c1.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.17b733c8.js",
     "static/js/2.2bb5eb00.chunk.js",
-    "static/js/main.c5692655.chunk.js"
+    "static/js/main.df95aa78.chunk.js"
   ]
 }

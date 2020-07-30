@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c50a673bf835c2a85357df18157ad369",
+    "revision": "6b333ac7a7f80785d2888ec59080bd74",
     "url": "/deploy-crm-kabs-demo/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-crm-kabs-demo/static/js/2.2bb5eb00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a68525d57782e01562d9",
-    "url": "/deploy-crm-kabs-demo/static/js/main.c5692655.chunk.js"
+    "revision": "fae9b8a5ee3b0337ec78",
+    "url": "/deploy-crm-kabs-demo/static/js/main.df95aa78.chunk.js"
   },
   {
     "revision": "a3616cecf5a495e14d01",
