@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/deploy-crm-kabs-demo/static/js/main.cf5221f1.chunk.js",
+    "main.js.map": "/deploy-crm-kabs-demo/static/js/main.cf5221f1.chunk.js.map",
+    "runtime-main.js": "/deploy-crm-kabs-demo/static/js/runtime-main.17b733c8.js",
+    "runtime-main.js.map": "/deploy-crm-kabs-demo/static/js/runtime-main.17b733c8.js.map",
+    "static/js/2.7fe899a5.chunk.js": "/deploy-crm-kabs-demo/static/js/2.7fe899a5.chunk.js",
+    "static/js/2.7fe899a5.chunk.js.map": "/deploy-crm-kabs-demo/static/js/2.7fe899a5.chunk.js.map",
+    "index.html": "/deploy-crm-kabs-demo/index.html",
+    "precache-manifest.14e60744d240a5d8eeb9899d73557f5b.js": "/deploy-crm-kabs-demo/precache-manifest.14e60744d240a5d8eeb9899d73557f5b.js",
+    "service-worker.js": "/deploy-crm-kabs-demo/service-worker.js",
+    "static/js/2.7fe899a5.chunk.js.LICENSE.txt": "/deploy-crm-kabs-demo/static/js/2.7fe899a5.chunk.js.LICENSE.txt",
+    "static/media/yearbook.svg": "/deploy-crm-kabs-demo/static/media/yearbook.ad8a12c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b733c8.js",
+    "static/js/2.7fe899a5.chunk.js",
+    "static/js/main.cf5221f1.chunk.js"
+  ]
+}
