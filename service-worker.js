@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deploy-crm-kabs-demo/precache-manifest.1c8976b53ccbf25bce4040734ca6e66f.js"
+  "/deploy-crm-kabs-demo/precache-manifest.45fcb63b6b7712182d3f29d8c116c7db.js"
 );
 
 self.addEventListener('message', (event) => {
